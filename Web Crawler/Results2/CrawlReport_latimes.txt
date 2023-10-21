@@ -1,0 +1,41 @@
+Name: Datt Patel
+USC ID: 2149812400
+News site crawled: latimes.com
+Number of threads: 1
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 19195
+# fetches failed or aborted: 805
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3792408
+# unique URLs extracted: 183611
+# unique URLs within News Site: 57015
+# unique URLs outside News Site: 126596
+
+Status Codes:
+=============
+200 OK: 19195
+301 Moved Permanently: 728
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 65
+
+File Sizes:
+===========
+< 1KB: 12
+1KB ~ <10KB: 6
+10KB ~ <100KB: 938
+100KB ~ <1MB: 17917
+>= 1MB: 34
+
+Content Types:
+==============
+text/html: 18889
+image/gif: 0
+image/jpeg: 0
+image/png: 18
+application/pdf: 0

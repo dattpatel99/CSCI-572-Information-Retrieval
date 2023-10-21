@@ -1,0 +1,4 @@
+The average percentage overlap is 23.5% and the average spearman coefficient is -5.1765. 
+As the average overlap result is near 23.5% it indicates that Bing's search engine did not have as many common resulting URLs for the same query as Google. 
+Furthermore, from the spearman coefficient we can deduce that Bings overlapping results were ranked opposite and differently from Googles; this is because the coefficient value is in the negatives indicating that the ranking is opposite to that of Google.
+Finally, if we take Googles responses as they ideal response than we can state that Bing has worse repsonse as it ranks the common URLs in opposite manor to Google and has few average overlapping urls per query. 
